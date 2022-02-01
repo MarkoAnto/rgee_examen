@@ -1,0 +1,15 @@
+---
+title: "EXPOSICIÓN"
+author: "Marko Rodríguez"
+date: "31/1/2022"
+output: html_document
+---
+
+```{r}
+#El RGEE,se encuentra vinculado y nos ayuda a llamar al API de GEE desde R, es un paquete que que puede transformar el codigo den R en un codigo de Python, este codigo en Python puede trasformarse en un código sf el cual puede procesarse en Google Earth Engien. Presenta datos a una escala de peta bytes, presenta imagenes de detección remota, y nos ayuda al proporcionando el catálogo de datos que presenta el Google Earth Engine. para su intalación se requiere de los paquetes:
+
+```
+
+
+
+
